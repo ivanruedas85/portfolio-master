@@ -1,6 +1,19 @@
 # Next Simple Portfolio
 ![](./screenshot.png)
 
+# Eject
+- yarn
+
+Esto instalara todas las dependencias del proyecto
+
+- yarn dev
+
+Iniciara el servidor de pruebas
+
+- yarn build 
+
+Compilara el proyecto para su ejecución en un servidor
+
 # Tools
 
 - Nextjs
